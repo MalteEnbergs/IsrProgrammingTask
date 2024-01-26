@@ -1,0 +1,6 @@
+16:00:45.803 [main] INFO  Renamer - Starting.
+16:00:45.806 [main] INFO  Renamer - Using path defaults.
+16:00:45.806 [main] INFO  Renamer - Using default forbidden symbols.
+16:00:45.808 [main] ERROR Renamer - Import path does not exist.
+16:00:45.809 [main] ERROR Renamer - Input path does not exist.
+16:00:45.809 [main] INFO  Renamer - Process aborted.
